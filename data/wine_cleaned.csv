@@ -1,0 +1,21 @@
+"","name","country","region","grape","color","vintage","alcohol","acidity","residual_sugar","ph","price_eur","rating"
+"1","Chateau Lune","France","Bordeaux","Merlot","red",2018,13.5,5.8,2.1,3.55,32,91
+"2","Rio Verde Reserva","Spain","Rioja","Tempranillo","red",2016,14,5.5,1.9,3.6,24.5,89
+"3","Mosel Kabinett","Germany","Mosel","Riesling","white",2021,8.5,8.9,38,3.05,18,90
+"4","Colline Rosso","Italy","Tuscany","Sangiovese","red",2019,13.8,6.1,1.5,3.45,27,88
+"5","Kiwi Coast","New Zealand","Marlborough","Sauvignon Blanc","white",2023,12.5,7.4,3.2,3.2,16.5,87
+"6","Barossa Shiraz","Australia","Barossa Valley","Shiraz","red",2017,14.8,5.4,2.6,3.7,35,92
+"7","Provence Blush","France","Provence","Grenache","rose",2023,12.8,6.3,1.8,3.35,19,86
+"8","Douro Tinto","Portugal","Douro","Touriga Nacional","red",2018,14.2,5.7,2,3.62,21,90
+"9","Napa Reserve","USA","Napa Valley","Cabernet Sauvignon","red",2016,14.5,5.9,2.4,3.68,85,94
+"10","Wachau Federspiel","Austria","Wachau","Gruner Veltliner","white",2022,12,6.8,2.2,3.3,22,89
+"11","Andes Malbec","Argentina","Mendoza","Malbec","red",2020,14.1,5.6,2.3,3.65,15,88
+"12","Cava Brut","Spain","Penedes","Macabeo","sparkling",2021,11.5,7.1,8,3.15,13,85
+"13","Chablis Premier","France","Burgundy","Chardonnay","white",2020,12.5,7,1.2,3.25,38,92
+"14","Sonoma Pinot","USA","Sonoma","Pinot Noir","red",2021,13.9,6,1.7,3.52,42,91
+"15","Tokaji Aszu","Hungary","Tokaj","Furmint","white",2015,11,9.5,180,3.4,55,95
+"16","Stellen Chenin","South Africa","Stellenbosch","Chenin Blanc","white",2022,13,6.9,4.5,3.28,14,87
+"17","Champagne Brut","France","Champagne","Chardonnay","sparkling",2018,12,7.8,9,3.05,60,93
+"18","Priorat Garnacha","Spain","Priorat","Grenache","red",2017,15,5.3,2.2,3.58,48,93
+"19","Alsace Gewurz","France","Alsace","Gewurztraminer","white",2021,13.5,5.2,12,3.45,26,88
+"20","Chianti Classico","Italy","Tuscany","Sangiovese","red",2020,13.5,6.2,1.6,3.48,23,89
